@@ -1,5 +1,4 @@
 # wpress-thingies
-series of things, tweaks and probably a couple of useless shit I used for the wttm.net page
+series of things, tweaks and probably a couple of useless shit I used for various websites
 
-Lost pwd email
-    Not so sure it works and I casually forgot the wttm password.
+Lost pwd email: not sure if it works in the latest WP version.
